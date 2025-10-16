@@ -1,0 +1,891 @@
+Braund, Mr. Owen Harris 22 A/5 21171
+Cumings, Mrs. John Bradley (Florence Briggs Thayer) 38 PC 17599
+Heikkinen, Miss. Laina 26 STON/O2. 3101282
+Futrelle, Mrs. Jacques Heath (Lily May Peel) 35 113803
+Allen, Mr. William Henry 35 373450
+Moran, Mr. James  330877
+McCarthy, Mr. Timothy J 54 17463
+Palsson, Master. Gosta Leonard 2 349909
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg) 27 347742
+Nasser, Mrs. Nicholas (Adele Achem) 14 237736
+Sandstrom, Miss. Marguerite Rut 4 PP 9549
+Bonnell, Miss. Elizabeth 58 113783
+Saundercock, Mr. William Henry 20 A/5. 2151
+Andersson, Mr. Anders Johan 39 347082
+Vestrom, Miss. Hulda Amanda Adolfina 14 350406
+Hewlett, Mrs. (Mary D Kingcome)  55 248706
+Rice, Master. Eugene 2 382652
+Williams, Mr. Charles Eugene  244373
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele) 31 345763
+Masselmani, Mrs. Fatima  2649
+Fynney, Mr. Joseph J 35 239865
+Beesley, Mr. Lawrence 34 248698
+McGowan, Miss. Anna "Annie" 15 330923
+Sloper, Mr. William Thompson 28 113788
+Palsson, Miss. Torborg Danira 8 349909
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson) 38 347077
+Emir, Mr. Farred Chehab  2631
+Fortune, Mr. Charles Alexander 19 19950
+O'Dwyer, Miss. Ellen "Nellie"  330959
+Todoroff, Mr. Lalio  349216
+Uruchurtu, Don. Manuel E 40 PC 17601
+Spencer, Mrs. William Augustus (Marie Eugenie)  PC 17569
+Glynn, Miss. Mary Agatha  335677
+Wheadon, Mr. Edward H 66 C.A. 24579
+Meyer, Mr. Edgar Joseph 28 PC 17604
+Holverson, Mr. Alexander Oskar 42 113789
+Mamee, Mr. Hanna  2677
+Cann, Mr. Ernest Charles 21 A./5. 2152
+Vander Planke, Miss. Augusta Maria 18 345764
+Nicola-Yarred, Miss. Jamila 14 2651
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson) 40 7546
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott) 27 11668
+Kraeff, Mr. Theodor  349253
+Laroche, Miss. Simonne Marie Anne Andree 3 SC/Paris 2123
+Devaney, Miss. Margaret Delia 19 330958
+Rogers, Mr. William John  S.C./A.4. 23567
+Lennon, Mr. Denis  370371
+O'Driscoll, Miss. Bridget  14311
+Samaan, Mr. Youssef  2662
+Arnold-Franchi, Mrs. Josef (Josefine Franchi) 18 349237
+Panula, Master. Juha Niilo 7 3101295
+Nosworthy, Mr. Richard Cater 21 A/4. 39886
+Harper, Mrs. Henry Sleeper (Myna Haxtun) 49 PC 17572
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson) 29 2926
+Ostby, Mr. Engelhart Cornelius 65 113509
+Woolner, Mr. Hugh  19947
+Rugg, Miss. Emily 21 C.A. 31026
+Novel, Mr. Mansouer 28.5 2697
+West, Miss. Constance Mirium 5 C.A. 34651
+Goodwin, Master. William Frederick 11 CA 2144
+Sirayanian, Mr. Orsen 22 2669
+Icard, Miss. Amelie 38 113572
+Harris, Mr. Henry Birkhardt 45 36973
+Skoog, Master. Harald 4 347088
+Stewart, Mr. Albert A  PC 17605
+Moubarek, Master. Gerios  2661
+Nye, Mrs. (Elizabeth Ramell) 29 C.A. 29395
+Crease, Mr. Ernest James 19 S.P. 3464
+Andersson, Miss. Erna Alexandra 17 3101281
+Kink, Mr. Vincenz 26 315151
+Jenkin, Mr. Stephen Curnow 32 C.A. 33111
+Goodwin, Miss. Lillian Amy 16 CA 2144
+Hood, Mr. Ambrose Jr 21 S.O.C. 14879
+Chronopoulos, Mr. Apostolos 26 2680
+Bing, Mr. Lee 32 1601
+Moen, Mr. Sigurd Hansen 25 348123
+Staneff, Mr. Ivan  349208
+Moutal, Mr. Rahamin Haim  374746
+Caldwell, Master. Alden Gates 0.83 248738
+Dowdell, Miss. Elizabeth 30 364516
+Waelens, Mr. Achille 22 345767
+Sheerlinck, Mr. Jan Baptist 29 345779
+McDermott, Miss. Brigdet Delia  330932
+Carrau, Mr. Francisco M 28 113059
+Ilett, Miss. Bertha 17 SO/C 14885
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson) 33 3101278
+Ford, Mr. William Neal 16 W./C. 6608
+Slocovski, Mr. Selman Francis  SOTON/OQ 392086
+Fortune, Miss. Mabel Helen 23 19950
+Celotti, Mr. Francesco 24 343275
+Christmann, Mr. Emil 29 343276
+Andreasson, Mr. Paul Edvin 20 347466
+Chaffee, Mr. Herbert Fuller 46 W.E.P. 5734
+Dean, Mr. Bertram Frank 26 C.A. 2315
+Coxon, Mr. Daniel 59 364500
+Shorney, Mr. Charles Joseph  374910
+Goldschmidt, Mr. George B 71 PC 17754
+Greenfield, Mr. William Bertram 23 PC 17759
+Doling, Mrs. John T (Ada Julia Bone) 34 231919
+Kantor, Mr. Sinai 34 244367
+Petranec, Miss. Matilda 28 349245
+Petroff, Mr. Pastcho ("Pentcho")  349215
+White, Mr. Richard Frasar 21 35281
+Johansson, Mr. Gustaf Joel 33 7540
+Gustafsson, Mr. Anders Vilhelm 37 3101276
+Mionoff, Mr. Stoytcho 28 349207
+Salkjelsvik, Miss. Anna Kristine 21 343120
+Moss, Mr. Albert Johan  312991
+Rekic, Mr. Tido 38 349249
+Moran, Miss. Bertha  371110
+Porter, Mr. Walter Chamberlain 47 110465
+Zabour, Miss. Hileni 14.5 2665
+Barton, Mr. David John 22 324669
+Jussila, Miss. Katriina 20 4136
+Attalah, Miss. Malake 17 2627
+Pekoniemi, Mr. Edvard 21 STON/O 2. 3101294
+Connors, Mr. Patrick 70.5 370369
+Turpin, Mr. William John Robert 29 11668
+Baxter, Mr. Quigg Edmond 24 PC 17558
+Andersson, Miss. Ellis Anna Maria 2 347082
+Hickman, Mr. Stanley George 21 S.O.C. 14879
+Moore, Mr. Leonard Charles  A4. 54510
+Nasser, Mr. Nicholas 32.5 237736
+Webber, Miss. Susan 32.5 27267
+White, Mr. Percival Wayland 54 35281
+Nicola-Yarred, Master. Elias 12 2651
+McMahon, Mr. Martin  370372
+Madsen, Mr. Fridtjof Arne 24 C 17369
+Peter, Miss. Anna  2668
+Ekstrom, Mr. Johan 45 347061
+Drazenoic, Mr. Jozef 33 349241
+Coelho, Mr. Domingos Fernandeo 20 SOTON/O.Q. 3101307
+Robins, Mrs. Alexander A (Grace Charity Laury) 47 A/5. 3337
+Weisz, Mrs. Leopold (Mathilde Francoise Pede) 29 228414
+Sobey, Mr. Samuel James Hayden 25 C.A. 29178
+Richard, Mr. Emile 23 SC/PARIS 2133
+Newsom, Miss. Helen Monypeny 19 11752
+Futrelle, Mr. Jacques Heath 37 113803
+Osen, Mr. Olaf Elon 16 7534
+Giglio, Mr. Victor 24 PC 17593
+Boulos, Mrs. Joseph (Sultana)  2678
+Nysten, Miss. Anna Sofia 22 347081
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck) 24 STON/O2. 3101279
+Burke, Mr. Jeremiah 19 365222
+Andrew, Mr. Edgardo Samuel 18 231945
+Nicholls, Mr. Joseph Charles 19 C.A. 33112
+Andersson, Mr. August Edvard ("Wennerstrom") 27 350043
+Ford, Miss. Robina Maggie "Ruby" 9 W./C. 6608
+Navratil, Mr. Michel ("Louis M Hoffman") 36.5 230080
+Byles, Rev. Thomas Roussel Davids 42 244310
+Bateman, Rev. Robert James 51 S.O.P. 1166
+Pears, Mrs. Thomas (Edith Wearne) 22 113776
+Meo, Mr. Alfonzo 55.5 A.5. 11206
+van Billiard, Mr. Austin Blyler 40.5 A/5. 851
+Olsen, Mr. Ole Martin  Fa 265302
+Williams, Mr. Charles Duane 51 PC 17597
+Gilnagh, Miss. Katherine "Katie" 16 35851
+Corn, Mr. Harry 30 SOTON/OQ 392090
+Smiljanic, Mr. Mile  315037
+Sage, Master. Thomas Henry  CA. 2343
+Cribb, Mr. John Hatfield 44 371362
+Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne) 40 C.A. 33595
+Bengtsson, Mr. John Viktor 26 347068
+Calic, Mr. Jovo 17 315093
+Panula, Master. Eino Viljami 1 3101295
+Goldsmith, Master. Frank John William "Frankie" 9 363291
+Chibnall, Mrs. (Edith Martha Bowerman)  113505
+Skoog, Mrs. William (Anna Bernhardina Karlsson) 45 347088
+Baumann, Mr. John D  PC 17318
+Ling, Mr. Lee 28 1601
+Van der hoef, Mr. Wyckoff 61 111240
+Rice, Master. Arthur 4 382652
+Johnson, Miss. Eleanor Ileen 1 347742
+Sivola, Mr. Antti Wilhelm 21 STON/O 2. 3101280
+Smith, Mr. James Clinch 56 17764
+Klasen, Mr. Klas Albin 18 350404
+Lefebre, Master. Henry Forbes  4133
+Isham, Miss. Ann Elizabeth 50 PC 17595
+Hale, Mr. Reginald 30 250653
+Leonard, Mr. Lionel 36 LINE
+Sage, Miss. Constance Gladys  CA. 2343
+Pernot, Mr. Rene  SC/PARIS 2131
+Asplund, Master. Clarence Gustaf Hugo 9 347077
+Becker, Master. Richard F 1 230136
+Kink-Heilmann, Miss. Luise Gretchen 4 315153
+Rood, Mr. Hugh Roscoe  113767
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)  370365
+Romaine, Mr. Charles Hallace ("Mr C Rolmane") 45 111428
+Bourke, Mr. John 40 364849
+Turcin, Mr. Stjepan 36 349247
+Pinsky, Mrs. (Rosa) 32 234604
+Carbines, Mr. William 19 28424
+Andersen-Jensen, Miss. Carla Christine Nielsine 19 350046
+Navratil, Master. Michel M 3 230080
+Brown, Mrs. James Joseph (Margaret Tobin) 44 PC 17610
+Lurette, Miss. Elise 58 PC 17569
+Mernagh, Mr. Robert  368703
+Olsen, Mr. Karl Siegwart Andreas 42 4579
+Madigan, Miss. Margaret "Maggie"  370370
+Yrois, Miss. Henriette ("Mrs Harbeck") 24 248747
+Vande Walle, Mr. Nestor Cyriel 28 345770
+Sage, Mr. Frederick  CA. 2343
+Johanson, Mr. Jakob Alfred 34 3101264
+Youseff, Mr. Gerious 45.5 2628
+Cohen, Mr. Gurshon "Gus" 18 A/5 3540
+Strom, Miss. Telma Matilda 2 347054
+Backstrom, Mr. Karl Alfred 32 3101278
+Albimona, Mr. Nassef Cassem 26 2699
+Carr, Miss. Helen "Ellen" 16 367231
+Blank, Mr. Henry 40 112277
+Ali, Mr. Ahmed 24 SOTON/O.Q. 3101311
+Cameron, Miss. Clear Annie 35 F.C.C. 13528
+Perkin, Mr. John Henry 22 A/5 21174
+Givard, Mr. Hans Kristensen 30 250646
+Kiernan, Mr. Philip  367229
+Newell, Miss. Madeleine 31 35273
+Honkanen, Miss. Eliina 27 STON/O2. 3101283
+Jacobsohn, Mr. Sidney Samuel 42 243847
+Bazzani, Miss. Albina 32 11813
+Harris, Mr. Walter 30 W/C 14208
+Sunderland, Mr. Victor Francis 16 SOTON/OQ 392089
+Bracken, Mr. James H 27 220367
+Green, Mr. George Henry 51 21440
+Nenkoff, Mr. Christo  349234
+Hoyt, Mr. Frederick Maxfield 38 19943
+Berglund, Mr. Karl Ivar Sven 22 PP 4348
+Mellors, Mr. William John 19 SW/PP 751
+Lovell, Mr. John Hall ("Henry") 20.5 A/5 21173
+Fahlstrom, Mr. Arne Jonas 18 236171
+Lefebre, Miss. Mathilde  4133
+Harris, Mrs. Henry Birkhardt (Irene Wallach) 35 36973
+Larsson, Mr. Bengt Edvin 29 347067
+Sjostedt, Mr. Ernst Adolf 59 237442
+Asplund, Miss. Lillian Gertrud 5 347077
+Leyson, Mr. Robert William Norman 24 C.A. 29566
+Harknett, Miss. Alice Phoebe  W./C. 6609
+Hold, Mr. Stephen 44 26707
+Collyer, Miss. Marjorie "Lottie" 8 C.A. 31921
+Pengelly, Mr. Frederick William 19 28665
+Hunt, Mr. George Henry 33 SCO/W 1585
+Zabour, Miss. Thamine  2665
+Murphy, Miss. Katherine "Kate"  367230
+Coleridge, Mr. Reginald Charles 29 W./C. 14263
+Maenpaa, Mr. Matti Alexanteri 22 STON/O 2. 3101275
+Attalah, Mr. Sleiman 30 2694
+Minahan, Dr. William Edward 44 19928
+Lindahl, Miss. Agda Thorilda Viktoria 25 347071
+Hamalainen, Mrs. William (Anna) 24 250649
+Beckwith, Mr. Richard Leonard 37 11751
+Carter, Rev. Ernest Courtenay 54 244252
+Reed, Mr. James George  362316
+Strom, Mrs. Wilhelm (Elna Matilda Persson) 29 347054
+Stead, Mr. William Thomas 62 113514
+Lobb, Mr. William Arthur 30 A/5. 3336
+Rosblom, Mrs. Viktor (Helena Wilhelmina) 41 370129
+Touma, Mrs. Darwis (Hanne Youssef Razi) 29 2650
+Thorne, Mrs. Gertrude Maybelle  PC 17585
+Cherry, Miss. Gladys 30 110152
+Ward, Miss. Anna 35 PC 17755
+Parrish, Mrs. (Lutie Davis) 50 230433
+Smith, Mr. Thomas  384461
+Asplund, Master. Edvin Rojj Felix 3 347077
+Taussig, Mr. Emil 52 110413
+Harrison, Mr. William 40 112059
+Henry, Miss. Delia  382649
+Reeves, Mr. David 36 C.A. 17248
+Panula, Mr. Ernesti Arvid 16 3101295
+Persson, Mr. Ernst Ulrik 25 347083
+Graham, Mrs. William Thompson (Edith Junkins) 58 PC 17582
+Bissette, Miss. Amelia 35 PC 17760
+Cairns, Mr. Alexander  113798
+Tornquist, Mr. William Henry 25 LINE
+Mellinger, Mrs. (Elizabeth Anne Maidment) 41 250644
+Natsch, Mr. Charles H 37 PC 17596
+Healy, Miss. Hanora "Nora"  370375
+Andrews, Miss. Kornelia Theodosia 63 13502
+Lindblom, Miss. Augusta Charlotta 45 347073
+Parkes, Mr. Francis "Frank"  239853
+Rice, Master. Eric 7 382652
+Abbott, Mrs. Stanton (Rosa Hunt) 35 C.A. 2673
+Duane, Mr. Frank 65 336439
+Olsson, Mr. Nils Johan Goransson 28 347464
+de Pelsmaeker, Mr. Alfons 16 345778
+Dorking, Mr. Edward Arthur 19 A/5. 10482
+Smith, Mr. Richard William  113056
+Stankovic, Mr. Ivan 33 349239
+de Mulder, Mr. Theodore 30 345774
+Naidenoff, Mr. Penko 22 349206
+Hosono, Mr. Masabumi 42 237798
+Connolly, Miss. Kate 22 370373
+Barber, Miss. Ellen "Nellie" 26 19877
+Bishop, Mrs. Dickinson H (Helen Walton) 19 11967
+Levy, Mr. Rene Jacques 36 SC/Paris 2163
+Haas, Miss. Aloisia 24 349236
+Mineff, Mr. Ivan 24 349233
+Lewy, Mr. Ervin G  PC 17612
+Hanna, Mr. Mansour 23.5 2693
+Allison, Miss. Helen Loraine 2 113781
+Saalfeld, Mr. Adolphe  19988
+Baxter, Mrs. James (Helene DeLaudeniere Chaput) 50 PC 17558
+Kelly, Miss. Anna Katherine "Annie Kate"  9234
+McCoy, Mr. Bernard  367226
+Johnson, Mr. William Cahoone Jr 19 LINE
+Keane, Miss. Nora A  226593
+Williams, Mr. Howard Hugh "Harry"  A/5 2466
+Allison, Master. Hudson Trevor 0.92 113781
+Fleming, Miss. Margaret  17421
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) 17 PC 17758
+Abelson, Mr. Samuel 30 P/PP 3381
+Francatelli, Miss. Laura Mabel 30 PC 17485
+Hays, Miss. Margaret Bechstein 24 11767
+Ryerson, Miss. Emily Borie 18 PC 17608
+Lahtinen, Mrs. William (Anna Sylfven) 26 250651
+Hendekovic, Mr. Ignjac 28 349243
+Hart, Mr. Benjamin 43 F.C.C. 13529
+Nilsson, Miss. Helmina Josefina 26 347470
+Kantor, Mrs. Sinai (Miriam Sternin) 24 244367
+Moraweck, Dr. Ernest 54 29011
+Wick, Miss. Mary Natalie 31 36928
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone) 40 16966
+Dennis, Mr. Samuel 22 A/5 21172
+Danoff, Mr. Yoto 27 349219
+Slayter, Miss. Hilda Mary 30 234818
+Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh) 22 248738
+Sage, Mr. George John Jr  CA. 2343
+Young, Miss. Marie Grice 36 PC 17760
+Nysveen, Mr. Johan Hansen 61 345364
+Ball, Mrs. (Ada E Hall) 36 28551
+Goldsmith, Mrs. Frank John (Emily Alice Brown) 31 363291
+Hippach, Miss. Jean Gertrude 16 111361
+McCoy, Miss. Agnes  367226
+Partner, Mr. Austen 45.5 113043
+Graham, Mr. George Edward 38 PC 17582
+Vander Planke, Mr. Leo Edmondus 16 345764
+Frauenthal, Mrs. Henry William (Clara Heinsheimer)  PC 17611
+Denkoff, Mr. Mitto  349225
+Pears, Mr. Thomas Clinton 29 113776
+Burns, Miss. Elizabeth Margaret 41 16966
+Dahl, Mr. Karl Edwart 45 7598
+Blackwell, Mr. Stephen Weart 45 113784
+Navratil, Master. Edmond Roger 2 230080
+Fortune, Miss. Alice Elizabeth 24 19950
+Collander, Mr. Erik Gustaf 28 248740
+Sedgwick, Mr. Charles Frederick Waddington 25 244361
+Fox, Mr. Stanley Hubert 36 229236
+Brown, Miss. Amelia "Mildred" 24 248733
+Smith, Miss. Marion Elsie 40 31418
+Davison, Mrs. Thomas Henry (Mary E Finck)  386525
+Coutts, Master. William Loch "William" 3 C.A. 37671
+Dimic, Mr. Jovan 42 315088
+Odahl, Mr. Nils Martin 23 7267
+Williams-Lambert, Mr. Fletcher Fellows  113510
+Elias, Mr. Tannous 15 2695
+Arnold-Franchi, Mr. Josef 25 349237
+Yousif, Mr. Wazli  2647
+Vanden Steen, Mr. Leo Peter 28 345783
+Bowerman, Miss. Elsie Edith 22 113505
+Funk, Miss. Annie Clemmer 38 237671
+McGovern, Miss. Mary  330931
+Mockler, Miss. Helen Mary "Ellie"  330980
+Skoog, Mr. Wilhelm 40 347088
+del Carlo, Mr. Sebastiano 29 SC/PARIS 2167
+Barbara, Mrs. (Catherine David) 45 2691
+Asim, Mr. Adola 35 SOTON/O.Q. 3101310
+O'Brien, Mr. Thomas  370365
+Adahl, Mr. Mauritz Nils Martin 30 C 7076
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson) 60 110813
+Moussa, Mrs. (Mantoura Boulos)  2626
+Jermyn, Miss. Annie  14313
+Aubart, Mme. Leontine Pauline 24 PC 17477
+Harder, Mr. George Achilles 25 11765
+Wiklund, Mr. Jakob Alfred 18 3101267
+Beavan, Mr. William Thomas 19 323951
+Ringhini, Mr. Sante 22 PC 17760
+Palsson, Miss. Stina Viola 3 349909
+Meyer, Mrs. Edgar Joseph (Leila Saks)  PC 17604
+Landergren, Miss. Aurora Adelia 22 C 7077
+Widener, Mr. Harry Elkins 27 113503
+Betros, Mr. Tannous 20 2648
+Gustafsson, Mr. Karl Gideon 19 347069
+Bidois, Miss. Rosalie 42 PC 17757
+Nakid, Miss. Maria ("Mary") 1 2653
+Tikkanen, Mr. Juho 32 STON/O 2. 3101293
+Holverson, Mrs. Alexander Oskar (Mary Aline Towner) 35 113789
+Plotcharsky, Mr. Vasil  349227
+Davies, Mr. Charles Henry 18 S.O.C. 14879
+Goodwin, Master. Sidney Leonard 1 CA 2144
+Buss, Miss. Kate 36 27849
+Sadlier, Mr. Matthew  367655
+Lehmann, Miss. Bertha 17 SC 1748
+Carter, Mr. William Ernest 36 113760
+Jansson, Mr. Carl Olof 21 350034
+Gustafsson, Mr. Johan Birger 28 3101277
+Newell, Miss. Marjorie 23 35273
+Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson) 24 PP 9549
+Johansson, Mr. Erik 22 350052
+Olsson, Miss. Elina 31 350407
+McKane, Mr. Peter David 46 28403
+Pain, Dr. Alfred 23 244278
+Trout, Mrs. William H (Jessie L) 28 240929
+Niskanen, Mr. Juha 39 STON/O 2. 3101289
+Adams, Mr. John 26 341826
+Jussila, Miss. Mari Aina 21 4137
+Hakkarainen, Mr. Pekka Pietari 28 STON/O2. 3101279
+Oreskovic, Miss. Marija 20 315096
+Gale, Mr. Shadrach 34 28664
+Widegren, Mr. Carl/Charles Peter 51 347064
+Richards, Master. William Rowe 3 29106
+Birkeland, Mr. Hans Martin Monsen 21 312992
+Lefebre, Miss. Ida  4133
+Sdycoff, Mr. Todor  349222
+Hart, Mr. Henry  394140
+Minahan, Miss. Daisy E 33 19928
+Cunningham, Mr. Alfred Fleming  239853
+Sundman, Mr. Johan Julian 44 STON/O 2. 3101269
+Meek, Mrs. Thomas (Annie Louise Rowley)  343095
+Drew, Mrs. James Vivian (Lulu Thorne Christian) 34 28220
+Silven, Miss. Lyyli Karoliina 18 250652
+Matthews, Mr. William John 30 28228
+Van Impe, Miss. Catharina 10 345773
+Gheorgheff, Mr. Stanio  349254
+Charters, Mr. David 21 A/5. 13032
+Zimmerman, Mr. Leo 29 315082
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) 28 347080
+Rosblom, Mr. Viktor Richard 18 370129
+Wiseman, Mr. Phillippe  A/4. 34244
+Clarke, Mrs. Charles V (Ada Maria Winfield) 28 2003
+Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall") 19 250655
+Flynn, Mr. James  364851
+Pickard, Mr. Berk (Berk Trembisky) 32 SOTON/O.Q. 392078
+Bjornstrom-Steffansson, Mr. Mauritz Hakan 28 110564
+Thorneycroft, Mrs. Percival (Florence Kate White)  376564
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow) 42 SC/AH 3085
+Kallio, Mr. Nikolai Erland 17 STON/O 2. 3101274
+Silvey, Mr. William Baird 50 13507
+Carter, Miss. Lucile Polk 14 113760
+Ford, Miss. Doolina Margaret "Daisy" 21 W./C. 6608
+Richards, Mrs. Sidney (Emily Hocking) 24 29106
+Fortune, Mr. Mark 64 19950
+Kvillner, Mr. Johan Henrik Johannesson 31 C.A. 18723
+Hart, Mrs. Benjamin (Esther Ada Bloomfield) 45 F.C.C. 13529
+Hampe, Mr. Leon 20 345769
+Petterson, Mr. Johan Emil 25 347076
+Reynaldo, Ms. Encarnacion 28 230434
+Johannesen-Bratthammer, Mr. Bernt  65306
+Dodge, Master. Washington 4 33638
+Mellinger, Miss. Madeleine Violet 13 250644
+Seward, Mr. Frederic Kimber 34 113794
+Baclini, Miss. Marie Catherine 5 2666
+Peuchen, Major. Arthur Godfrey 52 113786
+West, Mr. Edwy Arthur 36 C.A. 34651
+Hagland, Mr. Ingvald Olai Olsen  65303
+Foreman, Mr. Benjamin Laventall 30 113051
+Goldenberg, Mr. Samuel L 49 17453
+Peduzzi, Mr. Joseph  A/5 2817
+Jalsevac, Mr. Ivan 29 349240
+Millet, Mr. Francis Davis 65 13509
+Kenyon, Mrs. Frederick R (Marion)  17464
+Toomey, Miss. Ellen 50 F.C.C. 13531
+O'Connor, Mr. Maurice  371060
+Anderson, Mr. Harry 48 19952
+Morley, Mr. William 34 364506
+Gee, Mr. Arthur H 47 111320
+Milling, Mr. Jacob Christian 48 234360
+Maisner, Mr. Simon  A/S 2816
+Goncalves, Mr. Manuel Estanslas 38 SOTON/O.Q. 3101306
+Campbell, Mr. William  239853
+Smart, Mr. John Montgomery 56 113792
+Scanlan, Mr. James  36209
+Baclini, Miss. Helene Barbara 0.75 2666
+Keefe, Mr. Arthur  323592
+Cacic, Mr. Luka 38 315089
+West, Mrs. Edwy Arthur (Ada Mary Worth) 33 C.A. 34651
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard) 23 SC/AH Basle 541
+Strandberg, Miss. Ida Sofia 22 7553
+Clifford, Mr. George Quincy  110465
+Renouf, Mr. Peter Henry 34 31027
+Braund, Mr. Lewis Richard 29 3460
+Karlsson, Mr. Nils August 22 350060
+Hirvonen, Miss. Hildur E 2 3101298
+Goodwin, Master. Harold Victor 9 CA 2144
+Frost, Mr. Anthony Wood "Archie"  239854
+Rouse, Mr. Richard Henry 50 A/5 3594
+Turkula, Mrs. (Hedwig) 63 4134
+Bishop, Mr. Dickinson H 25 11967
+Lefebre, Miss. Jeannie  4133
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby) 35 19943
+Kent, Mr. Edward Austin 58 11771
+Somerton, Mr. Francis William 30 A.5. 18509
+Coutts, Master. Eden Leslie "Neville" 9 C.A. 37671
+Hagland, Mr. Konrad Mathias Reiersen  65304
+Windelov, Mr. Einar 21 SOTON/OQ 3101317
+Molson, Mr. Harry Markland 55 113787
+Artagaveytia, Mr. Ramon 71 PC 17609
+Stanley, Mr. Edward Roland 21 A/4 45380
+Yousseff, Mr. Gerious  2627
+Eustis, Miss. Elizabeth Mussey 54 36947
+Shellard, Mr. Frederick William  C.A. 6212
+Allison, Mrs. Hudson J C (Bessie Waldo Daniels) 25 113781
+Svensson, Mr. Olof 24 350035
+Calic, Mr. Petar 17 315086
+Canavan, Miss. Mary 21 364846
+O'Sullivan, Miss. Bridget Mary  330909
+Laitinen, Miss. Kristina Sofia 37 4135
+Maioni, Miss. Roberta 16 110152
+Penasco y Castellana, Mr. Victor de Satode 18 PC 17758
+Quick, Mrs. Frederick Charles (Jane Richards) 33 26360
+Bradley, Mr. George ("George Arthur Brayton")  111427
+Olsen, Mr. Henry Margido 28 C 4001
+Lang, Mr. Fang 26 1601
+Daly, Mr. Eugene Patrick 29 382651
+Webber, Mr. James  SOTON/OQ 3101316
+McGough, Mr. James Robert 36 PC 17473
+Rothschild, Mrs. Martin (Elizabeth L. Barrett) 54 PC 17603
+Coleff, Mr. Satio 24 349209
+Walker, Mr. William Anderson 47 36967
+Lemore, Mrs. (Amelia Milley) 34 C.A. 34260
+Ryan, Mr. Patrick  371110
+Angle, Mrs. William A (Florence "Mary" Agnes Hughes) 36 226875
+Pavlovic, Mr. Stefo 32 349242
+Perreault, Miss. Anne 30 12749
+Vovk, Mr. Janko 22 349252
+Lahoud, Mr. Sarkis  2624
+Hippach, Mrs. Louis Albert (Ida Sophia Fischer) 44 111361
+Kassem, Mr. Fared  2700
+Farrell, Mr. James 40.5 367232
+Ridsdale, Miss. Lucy 50 W./C. 14258
+Farthing, Mr. John  PC 17483
+Salonen, Mr. Johan Werner 39 3101296
+Hocking, Mr. Richard George 23 29104
+Quick, Miss. Phyllis May 2 26360
+Toufik, Mr. Nakli  2641
+Elias, Mr. Joseph Jr 17 2690
+Peter, Mrs. Catherine (Catherine Rizk)  2668
+Cacic, Miss. Marija 30 315084
+Hart, Miss. Eva Miriam 7 F.C.C. 13529
+Butt, Major. Archibald Willingham 45 113050
+LeRoy, Miss. Bertha 30 PC 17761
+Risien, Mr. Samuel Beard  364498
+Frolicher, Miss. Hedwig Margaritha 22 13568
+Crosby, Miss. Harriet R 36 WE/P 5735
+Andersson, Miss. Ingeborg Constanzia 9 347082
+Andersson, Miss. Sigrid Elisabeth 11 347082
+Beane, Mr. Edward 32 2908
+Douglas, Mr. Walter Donald 50 PC 17761
+Nicholson, Mr. Arthur Ernest 64 693
+Beane, Mrs. Edward (Ethel Clarke) 19 2908
+Padro y Manent, Mr. Julian  SC/PARIS 2146
+Goldsmith, Mr. Frank John 33 363291
+Davies, Master. John Morgan Jr 8 C.A. 33112
+Thayer, Mr. John Borland Jr 17 17421
+Sharp, Mr. Percival James R 27 244358
+O'Brien, Mr. Timothy  330979
+Leeni, Mr. Fahim ("Philip Zenni") 22 2620
+Ohman, Miss. Velin 22 347085
+Wright, Mr. George 62 113807
+Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan") 48 11755
+Robbins, Mr. Victor  PC 17757
+Taussig, Mrs. Emil (Tillie Mandelbaum) 39 110413
+de Messemaeker, Mrs. Guillaume Joseph (Emma) 36 345572
+Morrow, Mr. Thomas Rowan  372622
+Sivic, Mr. Husein 40 349251
+Norman, Mr. Robert Douglas 28 218629
+Simmons, Mr. John  SOTON/OQ 392082
+Meanwell, Miss. (Marion Ogden)  SOTON/O.Q. 392087
+Davies, Mr. Alfred J 24 A/4 48871
+Stoytcheff, Mr. Ilia 19 349205
+Palsson, Mrs. Nils (Alma Cornelia Berglund) 29 349909
+Doharr, Mr. Tannous  2686
+Jonsson, Mr. Carl 32 350417
+Harris, Mr. George 62 S.W./PP 752
+Appleton, Mrs. Edward Dale (Charlotte Lamson) 53 11769
+Flynn, Mr. John Irwin ("Irving") 36 PC 17474
+Kelly, Miss. Mary  14312
+Rush, Mr. Alfred George John 16 A/4. 20589
+Patchett, Mr. George 19 358585
+Garside, Miss. Ethel 34 243880
+Silvey, Mrs. William Baird (Alice Munger) 39 13507
+Caram, Mrs. Joseph (Maria Elias)  2689
+Jussila, Mr. Eiriik 32 STON/O 2. 3101286
+Christy, Miss. Julie Rachel 25 237789
+Thayer, Mrs. John Borland (Marian Longstreth Morris) 39 17421
+Downton, Mr. William James 54 28403
+Ross, Mr. John Hugo 36 13049
+Paulner, Mr. Uscher  3411
+Taussig, Miss. Ruth 18 110413
+Jarvis, Mr. John Denzil 47 237565
+Frolicher-Stehli, Mr. Maxmillian 60 13567
+Gilinski, Mr. Eliezer 22 14973
+Murdlin, Mr. Joseph  A./5. 3235
+Rintamaki, Mr. Matti 35 STON/O 2. 3101273
+Stephenson, Mrs. Walter Bertram (Martha Eustis) 52 36947
+Elsbury, Mr. William James 47 A/5 3902
+Bourke, Miss. Mary  364848
+Chapman, Mr. John Henry 37 SC/AH 29037
+Van Impe, Mr. Jean Baptiste 36 345773
+Leitch, Miss. Jessie Wills  248727
+Johnson, Mr. Alfred 49 LINE
+Boulos, Mr. Hanna  2664
+Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan") 49 PC 17485
+Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy) 24 243847
+Slabenoff, Mr. Petco  349214
+Harrington, Mr. Charles H  113796
+Torber, Mr. Ernst William 44 364511
+Homer, Mr. Harry ("Mr E Haven") 35 111426
+Lindell, Mr. Edvard Bengtsson 36 349910
+Karaic, Mr. Milan 30 349246
+Daniel, Mr. Robert Williams 27 113804
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue) 22 SC/Paris 2123
+Shutes, Miss. Elizabeth W 40 PC 17582
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren) 39 347082
+Jardin, Mr. Jose Neto  SOTON/O.Q. 3101305
+Murphy, Miss. Margaret Jane  367230
+Horgan, Mr. John  370377
+Brocklebank, Mr. William Alfred 35 364512
+Herman, Miss. Alice 24 220845
+Danbom, Mr. Ernst Gilbert 34 347080
+Lobb, Mrs. William Arthur (Cordelia K Stanlick) 26 A/5. 3336
+Becker, Miss. Marion Louise 4 230136
+Gavey, Mr. Lawrence 26 31028
+Yasbeck, Mr. Antoni 27 2659
+Kimball, Mr. Edwin Nelson Jr 42 11753
+Nakid, Mr. Sahid 20 2653
+Hansen, Mr. Henry Damsgaard 21 350029
+Bowen, Mr. David John "Dai" 21 54636
+Sutton, Mr. Frederick 61 36963
+Kirkland, Rev. Charles Leonard 57 219533
+Longley, Miss. Gretchen Fiske 21 13502
+Bostandyeff, Mr. Guentcho 26 349224
+O'Connell, Mr. Patrick D  334912
+Barkworth, Mr. Algernon Henry Wilson 80 27042
+Lundahl, Mr. Johan Svensson 51 347743
+Stahelin-Maeglin, Dr. Max 32 13214
+Parr, Mr. William Henry Marsh  112052
+Skoog, Miss. Mabel 9 347088
+Davis, Miss. Mary 28 237668
+Leinonen, Mr. Antti Gustaf 32 STON/O 2. 3101292
+Collyer, Mr. Harvey 31 C.A. 31921
+Panula, Mrs. Juha (Maria Emilia Ojala) 41 3101295
+Thorneycroft, Mr. Percival  376564
+Jensen, Mr. Hans Peder 20 350050
+Sagesser, Mlle. Emma 24 PC 17477
+Skoog, Miss. Margit Elizabeth 2 347088
+Foo, Mr. Choong  1601
+Baclini, Miss. Eugenie 0.75 2666
+Harper, Mr. Henry Sleeper 48 PC 17572
+Cor, Mr. Liudevit 19 349231
+Simonius-Blumer, Col. Oberst Alfons 56 13213
+Willey, Mr. Edward  S.O./P.P. 751
+Stanley, Miss. Amy Zillah Elsie 23 CA. 2314
+Mitkoff, Mr. Mito  349221
+Doling, Miss. Elsie 18 231919
+Kalvik, Mr. Johannes Halvorsen 21 8475
+O'Leary, Miss. Hanora "Norah"  330919
+Hegarty, Miss. Hanora "Nora" 18 365226
+Hickman, Mr. Leonard Mark 24 S.O.C. 14879
+Radeff, Mr. Alexander  349223
+Bourke, Mrs. John (Catherine) 32 364849
+Eitemiller, Mr. George Floyd 23 29751
+Newell, Mr. Arthur Webster 58 35273
+Frauenthal, Dr. Henry William 50 PC 17611
+Badt, Mr. Mohamed 40 2623
+Colley, Mr. Edward Pomeroy 47 5727
+Coleff, Mr. Peju 36 349210
+Lindqvist, Mr. Eino William 20 STON/O 2. 3101285
+Hickman, Mr. Lewis 32 S.O.C. 14879
+Butler, Mr. Reginald Fenton 25 234686
+Rommetvedt, Mr. Knud Paust  312993
+Cook, Mr. Jacob 43 A/5 3536
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)  19996
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford) 40 29750
+Davidson, Mr. Thornton 31 F.C. 12750
+Mitchell, Mr. Henry Michael 70 C.A. 24580
+Wilhelms, Mr. Charles 31 244270
+Watson, Mr. Ennis Hastings  239856
+Edvardsson, Mr. Gustaf Hjalmar 18 349912
+Sawyer, Mr. Frederick Charles 24.5 342826
+Turja, Miss. Anna Sofia 18 4138
+Goodwin, Mrs. Frederick (Augusta Tyler) 43 CA 2144
+Cardeza, Mr. Thomas Drake Martinez 36 PC 17755
+Peters, Miss. Katie  330935
+Hassab, Mr. Hammad 27 PC 17572
+Olsvigen, Mr. Thor Anderson 20 6563
+Goodwin, Mr. Charles Edward 14 CA 2144
+Brown, Mr. Thomas William Solomon 60 29750
+Laroche, Mr. Joseph Philippe Lemercier 25 SC/Paris 2123
+Panula, Mr. Jaako Arnold 14 3101295
+Dakic, Mr. Branko 19 349228
+Fischer, Mr. Eberhard Thelander 18 350036
+Madill, Miss. Georgette Alexandra 15 24160
+Dick, Mr. Albert Adrian 31 17474
+Karun, Miss. Manca 4 349256
+Lam, Mr. Ali  1601
+Saad, Mr. Khalil 25 2672
+Weir, Col. John 60 113800
+Chapman, Mr. Charles Henry 52 248731
+Kelly, Mr. James 44 363592
+Mullens, Miss. Katherine "Katie"  35852
+Thayer, Mr. John Borland 49 17421
+Humblen, Mr. Adolf Mathias Nicolai Olsen 42 348121
+Astor, Mrs. John Jacob (Madeleine Talmadge Force) 18 PC 17757
+Silverthorne, Mr. Spencer Victor 35 PC 17475
+Barbara, Miss. Saiide 18 2691
+Gallagher, Mr. Martin 25 36864
+Hansen, Mr. Henrik Juul 26 350025
+Morley, Mr. Henry Samuel ("Mr Henry Marshall") 39 250655
+Kelly, Mrs. Florence "Fannie" 45 223596
+Calderhead, Mr. Edward Pennington 42 PC 17476
+Cleaver, Miss. Alice 22 113781
+Moubarek, Master. Halim Gonios ("William George")  2661
+Mayne, Mlle. Berthe Antonine ("Mrs de Villiers") 24 PC 17482
+Klaber, Mr. Herman  113028
+Taylor, Mr. Elmer Zebley 48 19996
+Larsson, Mr. August Viktor 29 7545
+Greenberg, Mr. Samuel 52 250647
+Soholt, Mr. Peter Andreas Lauritz Andersen 19 348124
+Endres, Miss. Caroline Louise 38 PC 17757
+Troutt, Miss. Edwina Celia "Winnie" 27 34218
+McEvoy, Mr. Michael  36568
+Johnson, Mr. Malkolm Joackim 33 347062
+Harper, Miss. Annie Jessie "Nina" 6 248727
+Jensen, Mr. Svend Lauritz 17 350048
+Gillespie, Mr. William Henry 34 12233
+Hodges, Mr. Henry Price 50 250643
+Chambers, Mr. Norman Campbell 27 113806
+Oreskovic, Mr. Luka 20 315094
+Renouf, Mrs. Peter Henry (Lillian Jefferys) 30 31027
+Mannion, Miss. Margareth  36866
+Bryhl, Mr. Kurt Arnold Gottfrid 25 236853
+Ilmakangas, Miss. Pieta Sofia 25 STON/O2. 3101271
+Allen, Miss. Elisabeth Walton 29 24160
+Hassan, Mr. Houssein G N 11 2699
+Knight, Mr. Robert J  239855
+Berriman, Mr. William John 23 28425
+Troupiansky, Mr. Moses Aaron 23 233639
+Williams, Mr. Leslie 28.5 54636
+Ford, Mrs. Edward (Margaret Ann Watson) 48 W./C. 6608
+Lesurer, Mr. Gustave J 35 PC 17755
+Ivanoff, Mr. Kanio  349201
+Nankoff, Mr. Minko  349218
+Hawksford, Mr. Walter James  16988
+Cavendish, Mr. Tyrell William 36 19877
+Ryerson, Miss. Susan Parker "Suzette" 21 PC 17608
+McNamee, Mr. Neal 24 376566
+Stranden, Mr. Juho 31 STON/O 2. 3101288
+Crosby, Capt. Edward Gifford 70 WE/P 5735
+Abbott, Mr. Rossmore Edward 16 C.A. 2673
+Sinkkonen, Miss. Anna 30 250648
+Marvin, Mr. Daniel Warner 19 113773
+Connaghton, Mr. Michael 31 335097
+Wells, Miss. Joan 4 29103
+Moor, Master. Meier 6 392096
+Vande Velde, Mr. Johannes Joseph 33 345780
+Jonkoff, Mr. Lalio 23 349204
+Herman, Mrs. Samuel (Jane Laver) 48 220845
+Hamalainen, Master. Viljo 0.67 250649
+Carlsson, Mr. August Sigfrid 28 350042
+Bailey, Mr. Percy Andrew 18 29108
+Theobald, Mr. Thomas Leonard 34 363294
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards) 33 110152
+Garfirth, Mr. John  358585
+Nirva, Mr. Iisakki Antino Aijo 41 SOTON/O2 3101272
+Barah, Mr. Hanna Assi 20 2663
+Carter, Mrs. William Ernest (Lucile Polk) 36 113760
+Eklund, Mr. Hans Linus 16 347074
+Hogeboom, Mrs. John C (Anna Andrews) 51 13502
+Brewe, Dr. Arthur Jackson  112379
+Mangan, Miss. Mary 30.5 364850
+Moran, Mr. Daniel J  371110
+Gronnestad, Mr. Daniel Danielsen 32 8471
+Lievens, Mr. Rene Aime 24 345781
+Jensen, Mr. Niels Peder 48 350047
+Mack, Mrs. (Mary) 57 S.O./P.P. 3
+Elias, Mr. Dibo  2674
+Hocking, Mrs. Elizabeth (Eliza Needs) 54 29105
+Myhrman, Mr. Pehr Fabian Oliver Malkolm 18 347078
+Tobin, Mr. Roger  383121
+Emanuel, Miss. Virginia Ethel 5 364516
+Kilgannon, Mr. Thomas J  36865
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan) 43 24160
+Ayoub, Miss. Banoura 13 2687
+Dick, Mrs. Albert Adrian (Vera Gillespie) 17 17474
+Long, Mr. Milton Clyde 29 113501
+Johnston, Mr. Andrew G  W./C. 6607
+Ali, Mr. William 25 SOTON/O.Q. 3101312
+Harmer, Mr. Abraham (David Lishin) 25 374887
+Sjoblom, Miss. Anna Sofia 18 3101265
+Rice, Master. George Hugh 8 382652
+Dean, Master. Bertram Vere 1 C.A. 2315
+Guggenheim, Mr. Benjamin 46 PC 17593
+Keane, Mr. Andrew "Andy"  12460
+Gaskell, Mr. Alfred 16 239865
+Sage, Miss. Stella Anna  CA. 2343
+Hoyt, Mr. William Fisher  PC 17600
+Dantcheff, Mr. Ristiu 25 349203
+Otter, Mr. Richard 39 28213
+Leader, Dr. Alice (Farnham) 49 17465
+Osman, Mrs. Mara 31 349244
+Ibrahim Shawah, Mr. Yousseff 30 2685
+Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert) 30 345773
+Ponesell, Mr. Martin 34 250647
+Collyer, Mrs. Harvey (Charlotte Annie Tate) 31 C.A. 31921
+Carter, Master. William Thornton II 11 113760
+Thomas, Master. Assad Alexander 0.42 2625
+Hedman, Mr. Oskar Arvid 27 347089
+Johansson, Mr. Karl Johan 31 347063
+Andrews, Mr. Thomas Jr 39 112050
+Pettersson, Miss. Ellen Natalia 18 347087
+Meyer, Mr. August 39 248723
+Chambers, Mrs. Norman Campbell (Bertha Griggs) 33 113806
+Alexander, Mr. William 26 3474
+Lester, Mr. James 39 A/4 48871
+Slemen, Mr. Richard James 35 28206
+Andersson, Miss. Ebba Iris Alfrida 6 347082
+Tomlin, Mr. Ernest Portage 30.5 364499
+Fry, Mr. Richard  112058
+Heininen, Miss. Wendla Maria 23 STON/O2. 3101290
+Mallet, Mr. Albert 31 S.C./PARIS 2079
+Holm, Mr. John Fredrik Alexander 43 C 7075
+Skoog, Master. Karl Thorsten 10 347088
+Hays, Mrs. Charles Melville (Clara Jennings Gregg) 52 12749
+Lulic, Mr. Nikola 27 315098
+Reuchlin, Jonkheer. John George 38 19972
+Moor, Mrs. (Beila) 27 392096
+Panula, Master. Urho Abraham 2 3101295
+Flynn, Mr. John  368323
+Lam, Mr. Len  1601
+Mallet, Master. Andre 1 S.C./PARIS 2079
+McCormack, Mr. Thomas Joseph  367228
+Stone, Mrs. George Nelson (Martha Evelyn) 62 113572
+Yasbeck, Mrs. Antoni (Selini Alexander) 15 2659
+Richards, Master. George Sibley 0.83 29106
+Saad, Mr. Amin  2671
+Augustsson, Mr. Albert 23 347468
+Allum, Mr. Owen George 18 2223
+Compton, Miss. Sara Rebecca 39 PC 17756
+Pasic, Mr. Jakob 21 315097
+Sirota, Mr. Maurice  392092
+Chip, Mr. Chang 32 1601
+Marechal, Mr. Pierre  11774
+Alhomaki, Mr. Ilmari Rudolf 20 SOTON/O2 3101287
+Mudd, Mr. Thomas Charles 16 S.O./P.P. 3
+Serepeca, Miss. Augusta 30 113798
+Lemberopolous, Mr. Peter L 34.5 2683
+Culumovic, Mr. Jeso 17 315090
+Abbing, Mr. Anthony 42 C.A. 5547
+Sage, Mr. Douglas Bullen  CA. 2343
+Markoff, Mr. Marin 35 349213
+Harper, Rev. John 28 248727
+Goldenberg, Mrs. Samuel L (Edwiga Grabowska)  17453
+Andersson, Master. Sigvard Harald Elias 4 347082
+Svensson, Mr. Johan 74 347060
+Boulos, Miss. Nourelain 9 2678
+Lines, Miss. Mary Conover 16 PC 17592
+Carter, Mrs. Ernest Courtenay (Lilian Hughes) 44 244252
+Aks, Mrs. Sam (Leah Rosen) 18 392091
+Wick, Mrs. George Dennick (Mary Hitchcock) 45 36928
+Daly, Mr. Peter Denis  51 113055
+Baclini, Mrs. Solomon (Latifa Qurban) 24 2666
+Razi, Mr. Raihed  2629
+Hansen, Mr. Claus Peter 41 350026
+Giles, Mr. Frederick Edward 21 28134
+Swift, Mrs. Frederick Joel (Margaret Welles Barron) 48 17466
+Sage, Miss. Dorothy Edith "Dolly"  CA. 2343
+Gill, Mr. John William 24 233866
+Bystrom, Mrs. (Karolina) 42 236852
+Duran y More, Miss. Asuncion 27 SC/PARIS 2149
+Roebling, Mr. Washington Augustus II 31 PC 17590
+van Melkebeke, Mr. Philemon  345777
+Johnson, Master. Harold Theodor 4 347742
+Balkic, Mr. Cerin 26 349248
+Beckwith, Mrs. Richard Leonard (Sallie Monypeny) 47 11751
+Carlsson, Mr. Frans Olof 33 695
+Vander Cruyssen, Mr. Victor 47 345765
+Abelson, Mrs. Samuel (Hannah Wizosky) 28 P/PP 3381
+Najib, Miss. Adele Kiamie "Jane" 15 2667
+Gustafsson, Mr. Alfred Ossian 20 7534
+Petroff, Mr. Nedelio 19 349212
+Laleff, Mr. Kristo  349217
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson) 56 11767
+Shelley, Mrs. William (Imanita Parrish Hall) 25 230433
+Markun, Mr. Johann 33 349257
+Dahlberg, Miss. Gerda Ulrika 22 7552
+Banfield, Mr. Frederick James 28 C.A./SOTON 34068
+Sutehall, Mr. Henry Jr 25 SOTON/OQ 392076
+Rice, Mrs. William (Margaret Norton) 39 382652
+Montvila, Rev. Juozas 27 211536
+Graham, Miss. Margaret Edith 19 112053
+Johnston, Miss. Catherine Helen "Carrie"  W./C. 6607
+Behr, Mr. Karl Howell 26 111369
+Dooley, Mr. Patrick 32 370376

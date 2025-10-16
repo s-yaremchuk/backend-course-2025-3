@@ -4,10 +4,11 @@ const path = require('path');
 
 const program = new Command();
 
+
 program
   .option('-i, --input <file>', 'input JSON file (required)')
-  .option('-o, --output <file>', 'output file (optional)')
-  .option('-d, --display', 'display result in console (optional)')
+  .option('-o, --output <file>', 'output file ')
+  .option('-d, --display', 'display result in console ')
   .option('-s, --survived', 'show only survived passengers (Survived = 1)')
   .option('-a, --age', 'display passenger age');
 
@@ -28,18 +29,25 @@ if (!fs.existsSync(options.input)) {
 }
 
 // Читання даних
+// Читання NDJSON або звичайного JSON
 let data;
 try {
-  const rawData = fs.readFileSync(options.input, 'utf8');
-  data = JSON.parse(rawData);
+  const rawData = fs.readFileSync(options.input, 'utf8').trim();
+
+  if (rawData.includes('\n')) {
+    // Якщо файл у форматі NDJSON — парсимо кожен рядок окремо
+    data = rawData
+      .split('\n')
+      .filter(line => line.trim().length > 0)
+      .map(line => JSON.parse(line));
+  } else {
+    // Інакше — звичайний JSON (масив або об’єкт)
+    const parsed = JSON.parse(rawData);
+    data = Array.isArray(parsed) ? parsed : [parsed];
+  }
 } catch (err) {
   console.error('Error reading or parsing input file');
   process.exit(1);
-}
-
-// Фільтрація: лише виживші, якщо задано -s
-if (options.survived) {
-  data = data.filter(passenger => passenger.Survived === 1);
 }
 
 // Форматування кожного запису
